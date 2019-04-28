@@ -1,3 +1,5 @@
+Additional info: https://docs.google.com/document/d/1u4KMXXWaCNkePZ1SllJHZ3lFfmZGDMIdQEeTzXytrb4/edit?usp=sharing
+
 # AWS
 
 This is a sample template for AWS - Below is a brief explanation of what we have generated for you:
